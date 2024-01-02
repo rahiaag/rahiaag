@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rahi Agarwal</h1>
 <h3 align="center">Doing Coding at Night</h3>
+<img align="right" alt="coding" width="400" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
 - 📫 How to reach me **agarwal.rahi08@gmail.con**
 
