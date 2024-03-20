@@ -1,6 +1,6 @@
 ### Introduction
 <h3 align="center">Debugging in the Night</h3>
-<iframe src="https://giphy.com/embed/26AHONQ79FdWZhAI0" width="480" height="310" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/archiecomics-archie-comics-archies-funhouse-attack-of-the-50ft-veronica-26AHONQ79FdWZhAI0">via GIPHY</a></p>
+<img src="https://giphy.com/embed/26AHONQ79FdWZhAI0" width="480" height="310" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/archiecomics-archie-comics-archies-funhouse-attack-of-the-50ft-veronica-26AHONQ79FdWZhAI0">via GIPHY</a></p>
 <img align="center" alt="coding"  height="300" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <br>
