@@ -15,7 +15,7 @@
 
 ###
 
-<h5 align="left">📫 How to reach me: agarwal.rahi08@gmail.com</h5>
+<h4 align="left">📫 How to reach me: agarwal.rahi08@gmail.com</h4>
 
 ###
 
