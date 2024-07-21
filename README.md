@@ -79,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahiaag/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/output/snake.svg" alt="Snake animation" />
 
 ###
 
