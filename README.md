@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<img align="right" height="150" src="https://media1.tenor.com/m/USvsVWVdPmgAAAAC/surprised-the-office.gif"  left-margin:8px/>
+<img align="right" height="150" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"  left-margin:8px/>
 
 ###
 <h3 align="left">🛠 Languages and Tools:</h3>
@@ -79,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/main/main.svg" alt="Snake animation" />
 
 ###
 
