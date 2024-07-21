@@ -1,12 +1,11 @@
 <h2 align="center">Debugging in the Night</h2>
+
 <div align="center">
-  <img height="250" src=" https://cdna.artstation.com/p/assets/images/images/027/053/846/large/chika-saito-zootcity.jpg?1590465184 "/>
+  <img height="500" src="https://cdna.artstation.com/p/assets/images/images/027/053/846/large/chika-saito-zootcity.jpg?1590465184" />
 </div>
 
 
-<div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/ab9d3b78c3b3bc494c601e9b894ba55b801c1e5d30739f059fee29ee333beaf0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966"  />
-</div>
+
 
 
 <div align="center">
@@ -73,8 +72,9 @@
       </a>
       <h4>📫 How to reach me: agarwal.rahi08@gmail.com</h4>
       <div align="center">
-<img height="400" style="display: block; margin: 0 auto;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBzeHpyNmpmeW4zeTZkcmQ3YmptcDRjcDNvdjB6aDJ3amh0aHM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.webp"/>
-      </div>
+
+  <img height="250" src="https://camo.githubusercontent.com/ab9d3b78c3b3bc494c601e9b894ba55b801c1e5d30739f059fee29ee333beaf0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966"  />
+
 
   <!-- About Me section on the right -->
   <div>
