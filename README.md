@@ -53,17 +53,39 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
 <br>
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="mailto:agarwal.rahi08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rahi-agarwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Connect with me section on the left -->
+  <div>
+    <h3 align="center">Connect with me:</h3>
+    <div>
+      <a href="mailto:agarwal.rahi08@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+      </a>
+      <a href="https://www.linkedin.com/in/rahi-agarwal/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      </a>
+      <h4>📫 How to reach me: agarwal.rahi08@gmail.com</h4>
+      <div align="center">
+<img height="200" style="display: block; margin: 0 auto;" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"/>
+      </div>
+
+  <!-- About Me section on the right -->
+  <div>
+    <h3 align="center">👩‍💻 About Me</h3>
+    <p style="text-align: right;">
+      I'm Rahi Agarwal.<br><br>
+      - 🔭 I’m working on various web and mobile projects, including an ecommerce platform and machine learning applications.<br>
+      - 📚 I'm currently learning machine learning and enhancing my skills.<br>
+      - ⚡ In my free time, I like to play sports and engage in mindfulness practices.
+    </p>
+  </div>
 </div>
-<h4 align="center">📫 How to reach me: agarwal.rahi08@gmail.com</h4>
-<div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"/>
-</div>
-<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/main.svg" alt="Snake animation" />
+
+
+ 
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/output/snake.svg" alt="Snake animation" />
