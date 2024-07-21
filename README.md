@@ -11,32 +11,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahiaag.rahiaag&" width="130" height="40" />
 </div>
 
-<br>
 
+<h2 align="Center">🛠 Languages and Tools:</h2>
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahiaag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
-</div>
-<br>
-
-
-<h4 align="left">📫 How to reach me: agarwal.rahi08@gmail.com</h4>
-
-<div align="left">
-  
-  <a href="agarwal.rahi08@gmail.com" target="_blank">
-    <h3 align="left">Connect with me:</h3>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rahi-agarwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-<img align="right" height="150" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"  left-margin:8px/>
-
-###
-<h3 align="left">🛠 Languages and Tools:</h3>
-<div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -52,10 +30,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
+  <br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
@@ -64,6 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -77,9 +59,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+<br>
+
+<h2 align="Center">🔥 Stats:</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahiaag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+</div>
+<br>
+
+
+
+
+<div align="left">
+  <a href="agarwal.rahi08@gmail.com" target="_blank">
+    <h3 align="Center">Connect with me:</h3>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rahi-agarwal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <h4 align="left">📫 How to reach me: agarwal.rahi08@gmail.com</h4>
+  </a>
+  <img align="right" height="150" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"/>
+</div>
+
+
 ###
 
-<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/main/main.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/main.svg" alt="Snake animation" />
 
 ###
 
