@@ -3,23 +3,27 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/ab9d3b78c3b3bc494c601e9b894ba55b801c1e5d30739f059fee29ee333beaf0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966"  />
+  <img height="250" src="https://camo.githubusercontent.com/ab9d3b78c3b3bc494c601e9b894ba55b801c1e5d30739f059fee29ee333beaf0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966"  />
 </div>
 
 ###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahiaag.rahiaag&" width="130" height="40" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahiaag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahiaag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
+<br>
 
-###
 
 <h4 align="left">📫 How to reach me: agarwal.rahi08@gmail.com</h4>
 
-###
-
 <div align="left">
+  
   <a href="agarwal.rahi08@gmail.com" target="_blank">
     <h3 align="left">Connect with me:</h3>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -31,7 +35,7 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/USvsVWVdPmgAAAAC/surprised-the-office.gif"  left-margin:8px/>
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -75,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahiaag/rahiaag/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rahiaag/main/snake.svg" alt="Snake animation" />
 
 ###
 
