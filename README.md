@@ -66,7 +66,7 @@
       </a>
       <h4>📫 How to reach me: agarwal.rahi08@gmail.com</h4>
       <div align="center">
-<img height="200" style="display: block; margin: 0 auto;" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"/>
+<img height="400" style="display: block; margin: 0 auto;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBzeHpyNmpmeW4zeTZkcmQ3YmptcDRjcDNvdjB6aDJ3amh0aHM3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.webp"/>
       </div>
 
   <!-- About Me section on the right -->
