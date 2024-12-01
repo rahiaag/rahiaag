@@ -22,10 +22,10 @@ I’m enthusiastic about my job and always strive to improve and grow through co
 
 ## My Skills
 
-- **Languages**: C/C++, SQL
-- **Developer Tools**: MySOL, MongoDB, Git/Github, Postman
-- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express,js
-- **Interest**: Flutter, Python, Web Scraping
+- **Languages**: C/C++, SQL  
+- **Developer Tools**: MySOL, MongoDB, Git/Github, Postman  
+- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express,js  
+- **Interest**: Flutter, Python, Web Scraping  
 
   <div align="center">
   <!-- Programming Languages -->
