@@ -1,7 +1,7 @@
 <h2 align="center">Debugging in the Night</h2>
 
 <div align="center">
-  <img height="500" width="1000" src="/Images/A.webp" />
+  <img height="500" width="750" src="/Images/A.webp" />
 </div>
 
 
