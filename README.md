@@ -18,12 +18,14 @@ I’m enthusiastic about my job and always strive to improve and grow through co
  
 ---
 
+
+
 ## My Skills
 
-- **Languages**: C/C++, Python
-- **Technologies**: Machine Learning, Deep Learning, TensorFlow, NLP
-- **Frameworks**: Spring Boot, Flask, Django
-- **Web Development**: HTML, CSS, JavaScript
+- **Languages**: C/C++, SQL
+- **Developer Tools**: MySOL, MongoDB, Git/Github, Postman
+- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express,js
+- **Interest**: Flutter, Python, Web Scraping
 
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
