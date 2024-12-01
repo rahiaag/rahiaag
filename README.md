@@ -95,6 +95,7 @@ I enjoy solving algorithmic problems to improve my coding skills.
 ## Let's Connect
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/rahi-agarwal/)
+- **GitHub Pages**: [Visit My Portfolio](https://rahiaag.github.io/rahi-Profile/)
 
 ---
 
