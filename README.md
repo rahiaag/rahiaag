@@ -7,6 +7,54 @@
 
 
 
+## About Me
+
+Hello, I'm **Rahi** —  a dedicated learner with ambitious goals and a positive attitude. I believe consistency is crucial for achieving success. My strength lies in my focus and commitment to my work, even when facing challenges.
+
+I’m enthusiastic about my job and always strive to improve and grow through continuous learning.
+ 
+---
+
+## My Skills
+
+- **Languages**: C/C++, Python
+- **Technologies**: Machine Learning, Deep Learning, TensorFlow, NLP
+- **Frameworks**: Spring Boot, Flask, Django
+- **Web Development**: HTML, CSS, JavaScript
+
+---
+
+
+### LeetCode Solutions
+I enjoy solving algorithmic problems to improve my coding skills.
+
+[Problem Solving](https://github.com/rahiaag/Chill_Guy)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahiaag&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## Contact Me
+
+- **Email**: [agarwal.rahi08@gmail.com](mailto:agarwal.rahi08@gmail.com)
+
+---
+
+## Let's Connect
+
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/rahi-agarwal/)
+
+---
+
+## Quote
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+
 
 
 
