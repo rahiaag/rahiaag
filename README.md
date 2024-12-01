@@ -1,7 +1,7 @@
 <h2 align="center">Debugging in the Night</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img height="500" width="390" src="/Images/A.webp" alt="Image A" />
+  <img height="500" width="410" src="/Images/A.webp" alt="Image A" />
   <img height="500" width="370" src="/Images/B.webp" alt="Image B" />
 </div>
 
