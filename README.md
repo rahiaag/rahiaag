@@ -23,9 +23,11 @@ I’m enthusiastic about my job and always strive to improve and grow through co
 ## My Skills
 
 - **Languages**: C/C++, SQL  
-- **Developer Tools**: MySOL, MongoDB, Git/Github, Postman  
-- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express,js  
-- **Interest**: Flutter, Python, Web Scraping  
+- **Developer Tools**: MySQL, MongoDB, Git/GitHub, Postman  
+- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
+- **Interest**: Flutter, Python, Web Scraping
+---
+
 
   <div align="center">
   <!-- Programming Languages -->
@@ -63,17 +65,13 @@ I’m enthusiastic about my job and always strive to improve and grow through co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo" />
-  <img width="12" />
+  
 
   <!-- Mobile Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
 </div>
 
 ---
-
 
 ### LeetCode Solutions
 I enjoy solving algorithmic problems to improve my coding skills.
