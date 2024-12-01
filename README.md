@@ -76,7 +76,11 @@ I enjoy solving algorithmic problems to improve my coding skills.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahiaag&show_icons=true&theme=dark&count_private=true)
+<h2 align="center">🔥 Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahiaag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"/>
+</div>
 
 ---
 
@@ -94,22 +98,9 @@ I enjoy solving algorithmic problems to improve my coding skills.
 
 ## Quote
 
-> "The best way to predict the future is to invent it." – Alan Kay
+> "Men are Brave" – Batman
 
-
-
-
-
-
-
-
-<br>
-<h2 align="center">🔥 Stats:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahiaag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiaag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"/>
-</div>
-<br>
+---
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Connect with me section on the left -->
  
