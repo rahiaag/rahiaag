@@ -65,10 +65,6 @@ I’m enthusiastic about my job and always strive to improve and grow through co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
-  
-
-  <!-- Mobile Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
 </div>
 
 ---
