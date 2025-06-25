@@ -1,8 +1,8 @@
 <h2 align="center">Debugging in the Night 🔮</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="/Images/stick.png" alt="Image A" />
- <!-- <img height="500" width="420" src="/Images/B.webp" alt="Image B" />>
+  <img height="900" width="1000" src="/Images/stick.png" alt="Image A" />
+ 
 </div>
 
 <div align="center">
