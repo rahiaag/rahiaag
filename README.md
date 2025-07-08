@@ -1,7 +1,7 @@
 <h2 align="center">Debugging in the Night 🔮</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img height="900" width="1000" src="/Images/stick.png" alt="Image A" />
+  <img height="900" width="1000" src="/Images/MaasaiGiraffe_ROW4908270547_UHD.jpg" alt="Image A" />
  
 </div>
 
