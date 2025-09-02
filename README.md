@@ -12,9 +12,11 @@
 
 ## About Me
 
-Hello, I'm **Rahi** —  a dedicated learner with ambitious goals and a positive attitude. I believe consistency is crucial for achieving success. My strength lies in my focus and commitment to my work, even when facing challenges.
+Hi, my name is Rahi Agarwal. I’m someone who enjoys learning new things and improving myself every day. I have a curious mind and like exploring topics such as technology, communication, and personal growth.
 
-I’m enthusiastic about my job and always strive to improve and grow through continuous learning.
+In my free time, I go to the gym, read, and work on building my skills in areas like programming and English speaking. I value positivity, respect, and helping others whenever I can.
+
+I believe in staying calm, working hard, and moving step by step toward my goals.
  
 ---
 
