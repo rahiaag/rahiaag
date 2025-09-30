@@ -14,7 +14,7 @@
 
 Hi, my name is Rahi Agarwal. I’m someone who enjoys learning new things and improving myself every day. I have a curious mind and like exploring topics such as technology, communication, and personal growth.
 
-In my free time, I go to the gym, read, and work on building my skills in areas like programming and English speaking. I value positivity, respect, and helping others whenever I can.
+In my free time, I read, and work on building my skills in areas like programming and Communication. I value positivity, respect, and helping others whenever I can.
 
 I believe in staying calm, working hard, and moving step by step toward my goals.
  
